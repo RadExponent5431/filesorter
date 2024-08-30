@@ -36,7 +36,7 @@ The script:
 git clone https://github.com/RadExponent5431/filesorter.git
 cd filesorter
 ```
-Press windows + R and time
+Press windows + R and tipe
 
 ```cmd
 shell:startup
